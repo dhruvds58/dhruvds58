@@ -28,18 +28,45 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 - ⚡ Fun fact: I achieved perfect school attendance for 9 consecutive years!
 
 
-## 🛠 Tech Stack
-- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-- **Data Visualization**: ![Power BI](https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="30) ![Superset](https://img.shields.io/badge/Apache%20Superset-000000?style=flat&logo=apache-superset&logoColor=white)
-- **Tools & Platforms**: <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="20"/> ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- **Other Skills**: ![ETL](https://img.shields.io/badge/ETL-0A192F?style=flat&logo=apache&logoColor=white)
-
 ## 📫 How to Reach Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-shah8/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;
-  <a href="mailto:dhruvds@bu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="https://github.com/dhruvds58"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/dhruv-shah8/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="mailto:dhruvds@bu.edu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30"/>
+  </a>
+  <a href="https://github.com/dhruvds58">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30"/>
+  </a>
+</p>
+
+## 🛠 Tech Stack
+<p align="left">
+  <!-- Programming Languages -->
+  <b>Programming Languages</b>:<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" height="40"/>
+  
+  <!-- Data Visualization -->
+  <br/><b>Data Visualization</b>:<br/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="40"/>
+  <img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.svg" alt="Superset" height="40"/>
+  
+  <!-- Tools & Platforms -->
+  <br/><b>Tools & Platforms</b>:<br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="40"/>
+  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/img/brand/streamlit-mark-color.svg" alt="Streamlit" height="40"/>
+  
+  <!-- Version Control -->
+  <br/><b>Version Control</b>:<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40"/>
+  
+  <!-- Other Skills -->
+  <br/><b>Other Skills</b>:<br/>
+  <img src="https://raw.githubusercontent.com/apache/apache-website-template/trunk/templates/icons/apache.svg" alt="ETL" height="40"/>
 </p>
 
 
