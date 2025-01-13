@@ -40,7 +40,9 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 
 ### 👀 Profile Views
 <img src="https://profile-counter.glitch.me/dhruvds58/count.svg" />
+
 ---
+
 Feel free to explore my repositories, fork projects, and collaborate with me. Let's create something impactful together!
 
 
