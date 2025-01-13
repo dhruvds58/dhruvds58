@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 
 ## 🛠 Tech Stack
 - **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-- **Data Visualization**: ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black), ![Superset](https://img.shields.io/badge/Apache%20Superset-000000?style=flat&logo=apache-superset&logoColor=white)
-- **Tools & Platforms**: ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white), ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- **Data Visualization**: ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black), ![Superset](https://img.shields.io/badge/Apache%20Superset-000000?style=flat&logo=apache-superset&logoColor=white)
+- **Tools & Platforms**: ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white), ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 - **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 - **Other Skills**: ![ETL](https://img.shields.io/badge/ETL-0A192F?style=flat&logo=apache&logoColor=white)
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 
 
 ## 📫 How to Reach Me
-<a href="https://www.linkedin.com/in/dhruv-shah8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/dhruv-shah8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:dhruvds@bu.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/dhruvds58" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a>
 
