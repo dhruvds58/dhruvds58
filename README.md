@@ -1,4 +1,4 @@
-# Hi there, I'm Dhruv Shah! 👋
+# Hi there, I'm Dhruv! 👋
 
 Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence Enthusiast** with a passion for turning data into actionable insights. I recently graduated with an **M.S. in Business Analytics (STEM)** from Boston University and am actively seeking a full-time role as a Data Analyst or BI Analyst.
 
