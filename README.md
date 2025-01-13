@@ -31,13 +31,13 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 ## 📫 How to Reach Me
 <p align="left">
   <a href="https://www.linkedin.com/in/dhruv-shah8/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:dhruvds@bu.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" style="margin-right: 10px"/>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/dhruvds58">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" style="margin-right: 10px"/>
   </a>
 </p>
 
@@ -45,28 +45,28 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 <p align="left">
   <!-- Programming Languages -->
   <b>Programming Languages</b>:<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" height="40" style="margin-right: 10px"/>
   
   <!-- Data Visualization -->
-  <br/><b>Data Visualization</b>:<br/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="40"/>
-  <img src="https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.svg" alt="Superset" height="40"/>
+  <br/><br/><b>Data Visualization</b>:<br/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-13.svg" alt="Superset" height="40" style="margin-right: 10px"/>
   
   <!-- Tools & Platforms -->
-  <br/><b>Tools & Platforms</b>:<br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="40"/>
-  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/img/brand/streamlit-mark-color.svg" alt="Streamlit" height="40"/>
+  <br/><br/><b>Tools & Platforms</b>:<br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
+  <img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/f/f0d0d26db1f2d99da8cc06678cf3110620148ce8.svg" alt="Streamlit" height="40" style="margin-right: 10px"/>
   
   <!-- Version Control -->
-  <br/><b>Version Control</b>:<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40"/>
+  <br/><br/><b>Version Control</b>:<br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" style="margin-right: 10px"/>
   
   <!-- Other Skills -->
-  <br/><b>Other Skills</b>:<br/>
-  <img src="https://raw.githubusercontent.com/apache/apache-website-template/trunk/templates/icons/apache.svg" alt="ETL" height="40"/>
+  <br/><br/><b>Other Skills</b>:<br/>
+  <img src="https://www.svgrepo.com/show/306003/etl.svg" alt="ETL" height="40" style="margin-right: 10px"/>
 </p>
 
 
