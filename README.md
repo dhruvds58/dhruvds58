@@ -10,19 +10,18 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 
 ## 🚀 Current Projects
 - **[Strava API Data Pipeline](https://github.com/dhruvds58/BA882-Strava-Team4)**: Real-time data analysis and visualization for runners using ETL, BigQuery, and Streamlit.
-- **Personal Portfolio**: Building an interactive, AI-powered portfolio to showcase my projects and skills.
+- **[Personal Portfolio](https://tinyurl.com/DhruvShahPortfolio)**: Building an interactive, AI-powered portfolio to showcase my projects and skills.
 
 ## 📚 Featured Projects
-- **[E-Commerce Analysis in Power BI](#)**: Identified a 20% cart-to-purchase gap, improving checkout process strategies.
-- **[Airbnb Price Prediction](#)**: Optimized machine learning models with advanced hyperparameter tuning.
-- **[Stack Overflow Analysis](#)**: Derived insights into platform trends using PySpark and BigQuery.
-- **[Boston Housing Experiment](#)**: Designed an A/B survey experiment to study rent price salience effects.
+- **[E-Commerce Analysis in Power BI](https://github.com/dhruvds58/Power-BI-Dashboard-for-an-E-Commerce-Website)**: Identified a 20% cart-to-purchase gap, improving checkout process strategies.
+- **[Airbnb Price Prediction](https://github.com/dhruvds58/Airbnb-Price-Prediction)**: Optimized machine learning models with advanced hyperparameter tuning.
+- **[Stack Overflow Analysis](https://github.com/dhruvds58/Stack-Overflow-Platform-Analysis)**: Derived insights into platform trends using PySpark and BigQuery.
+- **[Boston Housing Experiment](https://github.com/dhruvds58/boston-housing-experiment)**: Designed an A/B survey experiment to study rent price salience effects.
 
 ## 🌟 More About Me
 - 🔭 I’m currently working on building a robust Strava API data pipeline and enhancing my personal portfolio.
 - 🌱 I’m currently learning advanced pricing strategies and revenue management techniques.
 - 👯 I’m looking to collaborate on data-driven projects and dashboards.
-- 🤔 I’m looking for help with integrating generative AI features into my projects.
 - 💬 Ask me about data visualization, Power BI, and ETL pipelines.
 - 📫 How to reach me: [dhruvds@bu.edu](mailto:dhruvds@bu.edu).
 - 😄 Pronouns: He/Him.
