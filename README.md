@@ -38,11 +38,11 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 <a href="mailto:dhruvds@bu.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/dhruvds58" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a>
 
-### 👀 Profile Views
+## 👀 Profile Views
 <img src="https://profile-counter.glitch.me/dhruvds58/count.svg" />
 
----
 
+##
 Feel free to explore my repositories, fork projects, and collaborate with me. Let's create something impactful together!
 
 
