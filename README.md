@@ -42,32 +42,12 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 </p>
 
 ## 🛠 Tech Stack
-<p align="left">
-  <!-- Programming Languages -->
-  <b>Programming Languages</b>:<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" height="40" style="margin-right: 10px"/>
-  
-  <!-- Data Visualization -->
-  <br/><br/><b>Data Visualization</b>:<br/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-13.svg" alt="Superset" height="40" style="margin-right: 10px"/>
-  
-  <!-- Tools & Platforms -->
-  <br/><br/><b>Tools & Platforms</b>:<br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
-  <img src="https://global.discourse-cdn.com/business7/uploads/streamlit/original/2X/f/f0d0d26db1f2d99da8cc06678cf3110620148ce8.svg" alt="Streamlit" height="40" style="margin-right: 10px"/>
-  
-  <!-- Version Control -->
-  <br/><br/><b>Version Control</b>:<br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="40" style="margin-right: 10px"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" style="margin-right: 10px"/>
-  
-  <!-- Other Skills -->
-  <br/><br/><b>Other Skills</b>:<br/>
-  <img src="https://www.svgrepo.com/show/306003/etl.svg" alt="ETL" height="40" style="margin-right: 10px"/>
-</p>
+- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+- **Data Visualization**: ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black), ![Superset](https://img.shields.io/badge/Apache%20Superset-000000?style=flat&logo=apache-superset&logoColor=white)
+- **Tools & Platforms**: ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white), ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white), ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- **Other Skills**: ![ETL](https://img.shields.io/badge/ETL-0A192F?style=flat&logo=apache&logoColor=white)
+
 
 
 ### 📊 Language Breakdown
