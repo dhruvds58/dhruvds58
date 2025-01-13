@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 
 ## 🌟 About Me
 - **🔍 What I Do**: I specialize in analyzing complex datasets, creating compelling dashboards, and driving data-informed decisions.
-- **📊 Tools & Technologies**: Python, SQL, Tableau, Power BI, Excel, Machine Learning, DAX, Power Query, ETL, GCP, and BigQuery.
 - **🎯 Certifications**: Microsoft Certified: Power BI Data Analyst (PL-300).
 - **🏆 Achievements**: Winner of the Ventura Business Plan Competition (2021) and Xperia Internship Presentation Competition (2020).
 
@@ -39,8 +38,8 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 <a href="mailto:dhruvds@bu.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/dhruvds58" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a>
 
-### 📊 Language Breakdown
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvds58&layout=compact&theme=radical)
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpv/?username=dhruvds58&color=blueviolet&style=flat)
 
 
 Feel free to explore my repositories, fork projects, and collaborate with me. Let's create something impactful together!
