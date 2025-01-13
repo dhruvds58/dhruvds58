@@ -41,19 +41,16 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 ![DAX](https://img.shields.io/badge/-DAX-05122A?style=flat&logo=microsoftpowerbi)&nbsp;
 ![ETL](https://img.shields.io/badge/-ETL-05122A?style=flat&logo=apache)&nbsp;
 
----
 
 ## 📫 How to Reach Me
 <a href="https://www.linkedin.com/in/dhruv-shah8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:dhruvds@bu.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/dhruvds58" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/></a>
 
----
 
 ### 📊 Language Breakdown
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvds58&layout=compact&theme=radical)
 
----
 
 Feel free to explore my repositories, fork projects, and collaborate with me. Let's create something impactful together!
 
