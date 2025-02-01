@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 - 🌱 I’m currently learning advanced pricing strategies and revenue management techniques.
 - 👯 I’m looking to collaborate on data-driven projects and dashboards.
 - 💬 Ask me about data visualization, Power BI, and ETL pipelines.
-- 📫 How to reach me: [dhruvds@bu.edu](mailto:dhruvds@bu.edu).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I achieved perfect school attendance for 9 consecutive years!
 
