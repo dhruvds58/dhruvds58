@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 - **Tools & Platforms**:  
   [![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://github.com/dhruvds58/Compensation-Analysis-Excel)  
   [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://github.com/dhruvds58/BA882-Strava-Team4)  
-  [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://github.com/dhruvds58/BA882-Strava-Team4)  
+  [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://github.com/dhruvds58/Personal-Portfolio)  
 
 - **Version Control**:  
   [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/dhruvds58?tab=repositories)  
