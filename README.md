@@ -6,24 +6,15 @@ Welcome to my GitHub profile! I'm a **Data Analyst** and **Business Intelligence
 - **🔍 What I Do**: I specialize in analyzing complex datasets, creating compelling dashboards, and driving data-informed decisions.
 - **🎯 Certifications**: Microsoft Certified: Power BI Data Analyst (PL-300).
 - **🏆 Achievements**: Winner of the Ventura Business Plan Competition (2021) and Xperia Internship Presentation Competition (2020).
-
-## 🚀 Current Projects
-- **[Strava API Data Pipeline](https://github.com/dhruvds58/BA882-Strava-Team4)**: Real-time data analysis and visualization for runners using ETL, BigQuery, and Streamlit.
-- **[Personal Portfolio](https://tinyurl.com/DhruvShahPortfolio)**: Building an interactive, AI-powered portfolio to showcase my projects and skills.
+- 👯 I’m looking to collaborate on data-driven projects and dashboards.
+- 💬 Ask me about data visualization, Power BI, and ETL pipelines.
+- 😄 Pronouns: He/Him.
 
 ## 📚 Featured Projects
 - **[E-Commerce Analysis in Power BI](https://github.com/dhruvds58/Power-BI-Dashboard-for-an-E-Commerce-Website)**: Identified a 20% cart-to-purchase gap, improving checkout process strategies.
 - **[Airbnb Price Prediction](https://github.com/dhruvds58/Airbnb-Price-Prediction)**: Optimized machine learning models with advanced hyperparameter tuning.
 - **[Stack Overflow Analysis](https://github.com/dhruvds58/Stack-Overflow-Platform-Analysis)**: Derived insights into platform trends using PySpark and BigQuery.
 - **[Boston Housing Experiment](https://github.com/dhruvds58/boston-housing-experiment)**: Designed an A/B survey experiment to study rent price salience effects.
-
-## 🌟 More About Me
-- 🔭 I’m currently working on building a robust Strava API data pipeline and enhancing my personal portfolio.
-- 🌱 I’m currently learning advanced pricing strategies and revenue management techniques.
-- 👯 I’m looking to collaborate on data-driven projects and dashboards.
-- 💬 Ask me about data visualization, Power BI, and ETL pipelines.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I achieved perfect school attendance for 9 consecutive years!
 
 ### 🛠 Tech Stack
 
